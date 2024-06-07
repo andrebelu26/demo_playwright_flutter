@@ -1,0 +1,16 @@
+{
+  "name": "demo_playwright_flutter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2",
+    "fs-extra": "^11.2.0",
+    "rimraf": "^5.0.7"
+  }
+}
